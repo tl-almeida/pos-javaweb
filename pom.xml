@@ -22,6 +22,10 @@
         <junit.version>5.5.1</junit.version>
         <io.springfox.version>2.9.2</io.springfox.version>
         <modelmapper.version>2.3.0</modelmapper.version>
+             
+             <sonar.projectKey>ProvaFujioka</sonar.projectKey>
+             <sonar.host.url>http://localhost:9000</sonar.host.url>
+             <sonar.login>89179a70cd6c079ef9b3d25bbfd261dde9f846a5</sonar.login>
     </properties>
 
     <dependencies>
